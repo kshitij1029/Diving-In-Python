@@ -26,5 +26,22 @@ TASK-01:
 
 TASK-02:
 
->The Python program prints the sum of integers from 1-50 using a loop.
+>The Python program prints the sum of integers from 1 to 50 using a loop.
+
+
+>> ASSIGNMENT-03:
+
+TASK-01:
+
+>The Python program calculates the factorial of a number using recursion
+
+>Base-Case: if n==0 or n==1 : return 1 
+
+
+TASK-02:
+
+>The Python program calculates the square root, log, and sine of a number using the math module
+
+
+
 
