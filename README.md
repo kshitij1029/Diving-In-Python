@@ -43,5 +43,17 @@ TASK-02:
 >The Python program calculates the square root, log, and sine of a number using the math module
 
 
+>> ASSIGNMENT-04:
+
+TASK-01:
+
+>The Python program reads from a file and throws an error if the file does not exist
+
+
+TASK-02:
+
+>The Python program writes and appends data to a file
+
+
 
 
