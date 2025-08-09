@@ -55,5 +55,17 @@ TASK-02:
 >The Python program writes and appends data to a file
 
 
+>> ASSIGNMENT-05:
+
+TASK-01:
+
+>The Python program creates a dictionary and checks whether a key exists or not; if yes, then it returns the value of the key
+
+
+TASK-02:
+
+>The Python program demonstrates list slicing
+
+
 
 
