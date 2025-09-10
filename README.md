@@ -9,7 +9,6 @@ TASK-01:
 
 >Operations: Addition, Subtraction, Multiplication, and Division
 
-
 TASK-02:
 
 >The Python program gives a greeting message after accepting the first and last names from the user.
