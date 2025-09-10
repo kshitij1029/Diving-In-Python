@@ -7,7 +7,7 @@ TASK-01:
 
 >The Python program describes different operations over two variables that the user inputs.
 
->Operations: Addition, Subtraction, Multiplication, and Division
+>Operations: Addition, Subtraction, Multiplication, and Division (HELLO WORLD)
 
 TASK-02:
 
